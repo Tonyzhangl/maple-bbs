@@ -1,15 +1,4 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# **************************************************************************
-# Copyright © 2016 jianglin
-# File Name: views.py
-# Author: jianglin
-# Email: xiyang0807@gmail.com
-# Created: 2016-12-17 13:15:10 (CST)
-# Last Update:星期三 2017-3-29 11:22:15 (CST)
-#          By:
-# Description:
-# **************************************************************************
 from flask import abort
 from flask_admin.contrib.sqla import ModelView
 from flask_wtf import Form

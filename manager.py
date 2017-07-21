@@ -1,15 +1,4 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# **************************************************************************
-# Copyright © 2016 jianglin
-# File Name: manager.py
-# Author: jianglin
-# Email: xiyang0807@gmail.com
-# Created: 2016-10-25 22:08:39 (CST)
-# Last Update:星期五 2017-4-21 17:56:42 (CST)
-#          By:
-# Description:
-# **************************************************************************
 from flask_script import Manager
 from flask_migrate import Migrate, MigrateCommand
 from forums import create_app
