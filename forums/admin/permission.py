@@ -11,7 +11,7 @@
 # Description:
 # **************************************************************************
 from .views import BaseView
-from forums.extension import db
+from .extension import db
 from flask_maple.permission.models import Group, Router, Permission
 
 __all__ = ['register_permission']

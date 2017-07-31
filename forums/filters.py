@@ -1,15 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# **************************************************************************
-# Copyright © 2016 jianglin
-# File Name: filters.py
-# Author: jianglin
-# Email: xiyang0807@gmail.com
-# Created: 2016-11-07 21:00:32 (CST)
-# Last Update:星期日 2017-4-9 12:16:40 (CST)
-#          By:
-# Description:
-# **************************************************************************
 from datetime import datetime
 from config import SITE
 

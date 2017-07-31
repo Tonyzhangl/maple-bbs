@@ -1,15 +1,4 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# **************************************************************************
-# Copyright © 2016 jianglin
-# File Name: extension.py
-# Author: jianglin
-# Email: xiyang0807@gmail.com
-# Created: 2016-10-25 21:57:10 (CST)
-# Last Update:星期五 2017-4-21 17:49:34 (CST)
-#          By:
-# Description:
-# **************************************************************************
 from flask import request, g, current_app
 from flask_wtf.csrf import CsrfProtect
 from flask_admin import Admin

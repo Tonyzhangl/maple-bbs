@@ -1,15 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# **************************************************************************
-# Copyright © 2016 jianglin
-# File Name: urls.py
-# Author: jianglin
-# Email: xiyang0807@gmail.com
-# Created: 2016-10-28 10:26:16 (CST)
-# Last Update:星期六 2016-12-17 10:42:48 (CST)
-#          By:
-# Description:
-# **************************************************************************
 from flask import Blueprint
 from .views import (LoginView, LogoutView, RegisterView, ForgetView,
                     ConfirmView, ConfirmTokenView)
